@@ -3,4 +3,4 @@
 
 #### k_means_clustering_training.m trains on a vehicle dynamics dataset (collected on a regular day) and tests on about 40% of data kept aside for testing.
 
-#### clustering_performance_testing_rainyday.m trains on a vehicle dynamics dataset (collected on a regular day) and tests on aboutanother dataset by the same driver on a rainyday. 
+#### clustering_performance_testing_rainyday.m trains on a vehicle dynamics dataset (collected on a regular day) and tests on another dataset by the same driver on a rainyday. 
