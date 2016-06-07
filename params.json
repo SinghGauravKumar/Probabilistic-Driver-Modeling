@@ -1,0 +1,6 @@
+{
+  "name": "Probabilistic-driver-modeling",
+  "tagline": "Repository on probabilistic driver modeling using IVBSS data ",
+  "body": "## Probabilistic-Driver-Modeling\r\n### The repo contains codes on driver modeling using IVBSS data. Although there are many functions on kMeans created by collaborators, we decided to use the inbuilt command of MATLAB, as it provides more flexibility.\r\n\r\n#### k_means_clustering_training.m trains on a vehicle dynamics dataset (collected on a regular day) and tests on about 40% of data kept aside for testing.\r\n\r\n#### clustering_performance_testing_rainyday.m trains on a vehicle dynamics dataset (collected on a regular day) and tests on another dataset by the same driver on a rainyday. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
